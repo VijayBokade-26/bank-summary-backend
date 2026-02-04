@@ -5,3 +5,4 @@ __pycache__/
 .pytest_cache/
 app.zip
 .DS_Store
+certs
